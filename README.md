@@ -134,6 +134,4 @@ Dự án DAT111 - Đồ án 1
 
 
 
----
-
-**Lưu ý**: Đảm bảo bạn đã cài đặt Power BI Desktop để mở và sử dụng các file `.pbix` trong dự án này.
+----------------------------------------
