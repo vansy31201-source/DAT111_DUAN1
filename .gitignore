@@ -1,4 +1,7 @@
 *.csv
+retail_data_clean.pbix
+
+*.sql
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
